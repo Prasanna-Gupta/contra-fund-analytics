@@ -1,0 +1,37 @@
+[
+  {
+    "cluster": 0,
+    "scheme_clean": "Contra Fund A",
+    "Volatility": 12.5,
+    "CAGR": 15.2,
+    "color": "rgba(255, 99, 132, 0.8)"
+  },
+  {
+    "cluster": 0,
+    "scheme_clean": "Contra Fund B",
+    "Volatility": 10.8,
+    "CAGR": 13.5,
+    "color": "rgba(255, 99, 132, 0.8)"
+  },
+  {
+    "cluster": 1,
+    "scheme_clean": "Contra Fund C",
+    "Volatility": 14.2,
+    "CAGR": 17.8,
+    "color": "rgba(54, 162, 235, 0.8)"
+  },
+  {
+    "cluster": 2,
+    "scheme_clean": "Contra Fund D",
+    "Volatility": 9.5,
+    "CAGR": 11.2,
+    "color": "rgba(75, 192, 192, 0.8)"
+  },
+  {
+    "cluster": 1,
+    "scheme_clean": "Contra Fund E",
+    "Volatility": 16.3,
+    "CAGR": 19.5,
+    "color": "rgba(54, 162, 235, 0.8)"
+  }
+]

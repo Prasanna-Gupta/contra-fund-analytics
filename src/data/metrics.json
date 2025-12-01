@@ -1,0 +1,27 @@
+[
+  {
+    "scheme_clean": "Contra Fund A",
+    "Volatility": 12.5,
+    "CAGR": 15.2
+  },
+  {
+    "scheme_clean": "Contra Fund B",
+    "Volatility": 10.8,
+    "CAGR": 13.5
+  },
+  {
+    "scheme_clean": "Contra Fund C",
+    "Volatility": 14.2,
+    "CAGR": 17.8
+  },
+  {
+    "scheme_clean": "Contra Fund D",
+    "Volatility": 9.5,
+    "CAGR": 11.2
+  },
+  {
+    "scheme_clean": "Contra Fund E",
+    "Volatility": 16.3,
+    "CAGR": 19.5
+  }
+]
