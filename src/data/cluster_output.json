@@ -1,37 +1,42 @@
 [
   {
+    "scheme_clean": "Aditya Birla Sun Life Pure Value Fund - Direct - IDCW",
     "cluster": 0,
-    "scheme_clean": "Contra Fund A",
-    "Volatility": 12.5,
-    "CAGR": 15.2,
+    "CAGR": 12.84,
+    "Volatility": 12.24,
+    "Sharpe_Ratio": 10.49,
     "color": "rgba(255, 99, 132, 0.8)"
   },
   {
+    "scheme_clean": "Aditya Birla Sun Life Pure Value Fund - Growth - Direct Plan",
     "cluster": 0,
-    "scheme_clean": "Contra Fund B",
-    "Volatility": 10.8,
-    "CAGR": 13.5,
+    "CAGR": 16.82,
+    "Volatility": 11.74,
+    "Sharpe_Ratio": 14.33,
     "color": "rgba(255, 99, 132, 0.8)"
   },
   {
-    "cluster": 1,
-    "scheme_clean": "Contra Fund C",
-    "Volatility": 14.2,
-    "CAGR": 17.8,
-    "color": "rgba(54, 162, 235, 0.8)"
+    "scheme_clean": "Aditya Birla Sun Life Pure Value Fund - Growth Option",
+    "cluster": 0,
+    "CAGR": 15.13,
+    "Volatility": 11.72,
+    "Sharpe_Ratio": 12.91,
+    "color": "rgba(255, 99, 132, 0.8)"
   },
   {
+    "scheme_clean": "Aditya Birla Sun Life Pure Value Fund - Regular - IDCW",
+    "cluster": 0,
+    "CAGR": 8.04,
+    "Volatility": 12.67,
+    "Sharpe_Ratio": 6.34,
+    "color": "rgba(255, 99, 132, 0.8)"
+  },
+  {
+    "scheme_clean": "Axis Value Fund - Direct Plan - Growth",
     "cluster": 2,
-    "scheme_clean": "Contra Fund D",
-    "Volatility": 9.5,
-    "CAGR": 11.2,
-    "color": "rgba(75, 192, 192, 0.8)"
-  },
-  {
-    "cluster": 1,
-    "scheme_clean": "Contra Fund E",
-    "Volatility": 16.3,
-    "CAGR": 19.5,
+    "CAGR": 12.26,
+    "Volatility": 9.85,
+    "Sharpe_Ratio": 12.45,
     "color": "rgba(54, 162, 235, 0.8)"
   }
 ]
